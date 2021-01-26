@@ -1,1 +1,1 @@
-# This is our MAchine Learning Projects Page - Welcome!
+# This is our Machine Learning Projects Page - Welcome!
